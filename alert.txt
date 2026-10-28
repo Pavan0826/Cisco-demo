@@ -1,1 +1,3 @@
 Device alert: offline
+
+Device alert: online
