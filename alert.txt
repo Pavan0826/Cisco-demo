@@ -1,3 +1,4 @@
-Device alert: off2
+Device alert: off
+Device alert: Off
 
 Device alert: online
